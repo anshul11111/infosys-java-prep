@@ -1,6 +1,6 @@
 # 📘 Day-Wise Java Syllabus Breakdown
 
-🔗 [View the Full Syllabus Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1veAdZrF_i4maUeiT64GLZLbBGw76X-o2K-sEXlqFnrYGe0xBVKa1Hmj3jwhgwEyUShWvvck2wmms/pubhtml?widget=true&headers=false)
+🔗 [View the Full Syllabus Spreadsheet]([https://docs.google.com/spreadsheets/d/e/2PACX-1vS1veAdZrF_i4maUeiT64GLZLbBGw76X-o2K-sEXlqFnrYGe0xBVKa1Hmj3jwhgwEyUShWvvck2wmms/pubhtml?widget=true&headers=false](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1veAdZrF_i4maUeiT64GLZLbBGw76X-o2K-sEXlqFnrYGe0xBVKa1Hmj3jwhgwEyUShWvvck2wmms/pubhtml))
 
 ---
 
